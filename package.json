@@ -34,5 +34,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickySONZ/react-events-crash-course-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickySONZ/react-events-crash-course-lab/issues"
+  },
+  "homepage": "https://github.com/rickySONZ/react-events-crash-course-lab#readme"
 }
